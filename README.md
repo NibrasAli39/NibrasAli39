@@ -2,7 +2,7 @@
 - Senior Fullstack Software Engineer
 - Mostly working with React , Typescript , AWS , Node , Terraform / Serverless , Apis , CI / CD 
 - I'm looking to collaborate on any open source projects 
-- Reach out to me at linkedin : https://www.linkedin.com/in/nibras-ali-459642172/
+- Reach out to me at linkedin : https://www.linkedin.com/in/nibrasali
 
 
 <!---
